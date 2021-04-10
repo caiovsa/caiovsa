@@ -10,6 +10,7 @@
 * Alura Data Science bootcamp
 * Stanford Online - Machine Learning
 * Deeplearning.ai - Neural Networks and Deep Learning
+* Mathematics for Machine Learning
 
 
 <!---
