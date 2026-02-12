@@ -13,7 +13,7 @@
 * Mathematics for Machine Learning
 
 ## Techs and Tools
-[![My Skills](https://skillicons.dev/icons?i=anaconda,gcp,azure,linux,mysql,py,pytorch,tensorflow,git,r&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,gcp,azure,linux,mysql,py,pytorch,tensorflow,git,r,nodejs,docker&perline=5)](https://skillicons.dev)
 
 <!---
 ## Ongoing courses
